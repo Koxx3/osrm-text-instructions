@@ -143,15 +143,15 @@
             },
             "slight left": {
                 "default": "Tourner un peu à gauche",
-                "name": "Tourner un peu à gauche et rester sur {way_name:article}",
-                "destination": "Tourner un peu à gauche vers {destination:preposition}",
-                "junction_name": "Tourner un peu à gauche en {junction_name}"
+                "name": "Coller à gauche et rester sur {way_name:article}",
+                "destination": "Tourner à gauche vers {destination:preposition}",
+                "junction_name": "Tourner à gauche en {junction_name}"
             },
             "slight right": {
                 "default": "Tourner un peu à droite",
-                "name": "Tourner un peu à droite et rester sur {way_name:article}",
-                "destination": "Tourner un peu à droite vers {destination:preposition}",
-                "junction_name": "Tourner un peu à droite en {junction_name}"
+                "name": "Tourner à droite et rester sur {way_name:article}",
+                "destination": "Tourner à droite vers {destination:preposition}",
+                "junction_name": "Tourner à droite en {junction_name}"
             },
             "uturn": {
                 "default": "Faire demi-tour",
